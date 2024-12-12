@@ -11,6 +11,6 @@ To install the package directly from GitHub, use the following command in your p
 
 #### Using npm:
 ```bash
-npm install https://github.com/your-username/shared-react-components.git
+npm install https://github.com/jupli/shared-react-components.git
 Using yarn:
-yarn add https://github.com/your-username/shared-react-components.git
+yarn add https://github.com/jupli/shared-react-components.git
